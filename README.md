@@ -2,4 +2,4 @@
 
 ### Polls app
 
-Building my first Django up using the official documentation's tutorial.
+Building my first Django app using the official documentation's tutorial.
